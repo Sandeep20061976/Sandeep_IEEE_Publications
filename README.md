@@ -11,7 +11,7 @@ Research work and publications in VLSI Design, ASIC Design, Computer Architectur
 - **Research Area:** VLSI Design, ASIC Design, Error-Correcting Codes
 - **Technology:** 45 nm CMOS
 - **Key Results:** 13.02 Gbps peak throughput, 0.83 μs latency, 163.81 mW power consumption.
-- **Conference:** IEEE International Symposium on Circuits and Systems (ISCAS 2027)
+- **Conference:** IEEE International Symposium on Circuits and Systems (ISCAS 2027), France
 - **Status:** Submitted
 - **Paper:** [Read PDF](YOUR_GOOGLE_DRIVE_LINK)
 
@@ -28,7 +28,7 @@ Research work and publications in VLSI Design, ASIC Design, Computer Architectur
 - **Authors:** Sai Sandeep Nori, Ahilnandan Kabilan, Madhav Rao
 - **Research Area:** Computer Architecture, RISC-V, Cache Optimization, Edge AI
 - **Key Results:** Up to 9.33% IPC improvement with only 0.085% additional standard-cell area overhead.
-- **Conference:** 2026 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS 2026)
+- **Conference:** 2026 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS 2026), Fukuoka, Japan
 - **Status:** Accepted for Publication and Presented
 - **Paper:** [Read PDF](YOUR_GOOGLE_DRIVE_LINK)
 
