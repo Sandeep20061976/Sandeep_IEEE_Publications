@@ -17,7 +17,7 @@ Research work and publications in VLSI Design, ASIC Design, Computer Architectur
 
 ### 2. A Standalone Energy-Efficient ASCON-128a ASIC with Design-Space Exploration for Cost-Effective IoT Security
 
-- **Authors:** Sai Sandeep Nori, Lithin Sai Kumar, CH Satyaram Mangena, Shaik Mohammed Waseem, Subir Kumar Roy, Sachit Rao
+- **Authors:** Sai Sandeep Nori, Lithin Sai Kumar CH, Satyaram Mangena, Shaik Mohammed Waseem, Subir Kumar Roy, Sachit Rao
 - **Research Area:** ASIC Design, Lightweight Cryptography, Hardware Security
 - **Conference:** IEEE India Council Annual International Subsections Conference (INDISCON 2026)
 - **Status:** Accepted for Publication and Presented
@@ -51,5 +51,4 @@ Electronics and Communication Engineering
 International Institute of Information Technology Bangalore (IIIT Bangalore)
 
 - **LinkedIn:** [Sai Sandeep Nori](https://www.linkedin.com/in/nori-sai-sandeep-79076a290/)
-- **GitHub:** [GitHub Profile](YOUR_GITHUB_LINK)
 
